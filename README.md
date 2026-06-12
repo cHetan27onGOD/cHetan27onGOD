@@ -1,13 +1,13 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Chetan%20Banjan&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack%20Developer&descAlignY=56&color=gradient&gradientColor=0,111827,1E1B4B,312E81,6D28D9" width="100%" alt="Wave banner" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Chetan%20Banjan&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Applications&descAlignY=56&color=gradient&gradientColor=0,111827,1E1B4B,312E81,6D28D9" width="100%" alt="Wave banner" />
 
-	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Software+Engineering+Student;AI%2FML+Explorer;Full+Stack+Developer;DevOps+%26+System+Design+Learner" alt="Typing animation" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Backend+Engineer+in+Training;Java+%2B+Spring+Boot+%2B+Databases;Full+Stack+Systems+%26+DevOps;AI+Applications+and+Scalable+Software" alt="Typing animation" />
 
 	<br />
 
-	<img src="https://img.shields.io/badge/Saraswati_College_of_Engineering-Student-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic badge" />
-	<img src="https://img.shields.io/badge/Computer_Engineering-2027-4F46E5?style=for-the-badge&logo=academia&logoColor=white" alt="Program badge" />
-	<img src="https://img.shields.io/badge/Mumbai-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge" />
+	<img src="https://img.shields.io/badge/Computer_Engineering-2027-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic badge" />
+	<img src="https://img.shields.io/badge/Mumbai-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge" />
+	<img src="https://img.shields.io/badge/Saraswati_College_of_Engineering-Profile-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="College badge" />
 
 	<br /><br />
 
@@ -35,11 +35,11 @@
 
 ## About
 
-I am Chetan Banjan, a Computer Engineering student at Saraswati College of Engineering in Mumbai, graduating in 2027. I focus on software engineering with a strong bias toward building reliable products, practical AI/ML features, and full stack systems that feel polished, maintainable, and useful in real environments.
+I build backend-first software with a product mindset. My focus is on writing reliable Java and full stack systems, shaping APIs and data flows cleanly, and learning the engineering habits that matter in production: correctness, observability, maintainability, and performance.
 
-My work sits at the intersection of product engineering and implementation discipline. I enjoy turning ideas into working systems, learning how the pieces fit together end to end, and improving quality through better architecture, performance, and developer experience.
+I am currently shaping my path toward backend engineering, platform engineering, and AI-enabled product development. The emphasis is on systems that scale in design before they scale in traffic.
 
-**Open To:** internships, open-source collaboration, backend and full stack roles, AI/ML projects, and engineering teams that value ownership and execution.
+**Open To:** software engineering internships, backend roles, Java developer roles, full stack roles, and future platform or DevOps engineering opportunities.
 
 ---
 
@@ -48,7 +48,7 @@ My work sits at the intersection of product engineering and implementation disci
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" alt="Languages" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend" />
@@ -57,7 +57,7 @@ My work sits at the intersection of product engineering and implementation disci
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres,mongodb" alt="Backend and databases" />
 
 ### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman" alt="Cloud DevOps and tooling" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,kubernetes" alt="Cloud DevOps and tooling" />
 
 </div>
 
@@ -67,10 +67,10 @@ My work sits at the intersection of product engineering and implementation disci
 
 | Domain | Proficiency | Details |
 |---|---:|---|
-| Recommendation systems | Applied | Building domain-aware project logic for travel and decision support use cases. |
-| Data modeling and preprocessing | Working knowledge | Structuring inputs so engineering systems can produce consistent results. |
-| ML experimentation | Working knowledge | Exploring iterative workflows, evaluation, and feature-driven improvements. |
-| AI-assisted product thinking | Working knowledge | Translating user needs into practical product and system behavior. |
+| Recommendation systems | Applied | Built domain-aware logic for travel decision support and structured outputs. |
+| Data preparation and feature handling | Working knowledge | Organizing inputs and outputs so engineering systems remain predictable. |
+| Evaluation and iteration | Working knowledge | Improving outputs through feedback loops and disciplined testing. |
+| AI product integration | Working knowledge | Mapping user needs to practical software behavior and deployment patterns. |
 
 ---
 
@@ -79,55 +79,55 @@ My work sits at the intersection of product engineering and implementation disci
 <details open>
 <summary><strong>Intelligent-Travel-Recommendation-System</strong></summary>
 
-An applied recommendation-system project focused on travel discovery and decision support. The goal is to combine structured logic, useful outputs, and a clean user experience that feels product-ready instead of academic.
+Backend-oriented recommendation engine work focused on matching user needs with travel outcomes. This project is positioned around engineering quality: structured logic, predictable results, and a clean execution model that can be extended into a production service.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Recommendation logic, data modeling, Java-oriented implementation | Student-scale prototype | Optimized for responsive, low-latency recommendations | Input validation and controlled data flow | Demonstrates domain-focused AI/ML thinking | [Repository](https://github.com/cHetan27onGOD/Intelligent-Travel-Recommendation-System) |
+| Java, recommendation logic, data modeling | Prototype with service potential | Responsive design for low-latency recommendations | Controlled input handling and validation-first flow | Shows applied AI reasoning with software discipline | [Repository](https://github.com/cHetan27onGOD/Intelligent-Travel-Recommendation-System) |
 
 </details>
 
 <details>
 <summary><strong>MediaPlayer-JavaFX</strong></summary>
 
-A JavaFX desktop application that demonstrates UI-driven engineering, event handling, and desktop product flow. It reflects a practical approach to building an interface-heavy application with clear user interaction.
+Desktop engineering work that demonstrates event-driven design, application flow, and user-facing reliability. Useful as evidence of implementation quality and the ability to ship a complete Java application.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Java, JavaFX, desktop application design | Individual desktop application | Lightweight local execution | Local-only app flow and controlled file handling | Strong showcase of Java desktop engineering | [Repository](https://github.com/cHetan27onGOD/MediaPlayer-JavaFX) |
+| Java, JavaFX, desktop application design | Local application | Lightweight runtime profile | Local file interaction and controlled execution paths | Shows complete application delivery in Java | [Repository](https://github.com/cHetan27onGOD/MediaPlayer-JavaFX) |
 
 </details>
 
 <details>
 <summary><strong>hospitality</strong></summary>
 
-A domain-focused business project centered on hospitality workflows. The project highlights practical problem framing and a software approach aligned with service operations.
+Domain project centered on hospitality workflows and business process thinking. The emphasis is on translating a business problem into software behavior with clear control flow and maintainable logic.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Java, business logic, project workflow design | Academic prototype | Built for predictable runtime behavior | Emphasis on structured inputs and clean logic | Demonstrates domain understanding beyond pure code | [Repository](https://github.com/cHetan27onGOD/hospitality) |
+| Java, business logic, workflow modeling | Academic prototype | Predictable runtime behavior | Structured inputs and safe flow control | Demonstrates domain-to-software translation | [Repository](https://github.com/cHetan27onGOD/hospitality) |
 
 </details>
 
 <details>
 <summary><strong>Java</strong></summary>
 
-A core Java learning repository used for foundational practice, syntax fluency, object-oriented thinking, and algorithmic exercises. This is where fundamentals are strengthened through repetition and focused implementation.
+Core Java practice repository used to sharpen language fluency, OOP depth, and coding consistency. This repository supports the technical foundation for larger backend and system design work.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Core Java, OOP, fundamentals | Learning repository | Built for fast iteration and clarity | Standard input handling and safe program structure | Strengthens the base for larger systems | [Repository](https://github.com/cHetan27onGOD/Java) |
+| Core Java, OOP, fundamentals | Learning repository | Fast iteration for practice problems | Standard input validation and safe structure | Reinforces foundations for production code | [Repository](https://github.com/cHetan27onGOD/Java) |
 
 </details>
 
 <details>
 <summary><strong>java_random_programs</strong></summary>
 
-A practice repository for small Java programs, problem solving, and language fluency. It represents consistent engineering reps and the habit of building with intent.
+Practice repository for problem solving, fundamentals, and small Java implementations. Useful for showing repetition, breadth, and consistent development output.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Java, problem solving, fundamentals practice | Learning repository | Fast execution for focused exercises | Minimal attack surface by design | Shows steady growth through hands-on coding | [Repository](https://github.com/cHetan27onGOD/java_random_programs) |
+| Java, problem solving, fundamentals practice | Practice repository | Fast execution for focused exercises | Minimal surface area by design | Shows steady output and coding consistency | [Repository](https://github.com/cHetan27onGOD/java_random_programs) |
 
 </details>
 
@@ -137,17 +137,17 @@ A practice repository for small Java programs, problem solving, and language flu
 
 | Job Title | Company Name | Date Range | Professional Description |
 |---|---|---|---|
-| Software Engineering Student | Saraswati College of Engineering | 2023 - Present | Building a strong foundation in computer engineering through project work, software fundamentals, and practical implementation across Java, desktop applications, and recommendation-system style problem solving. |
+| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, full stack, and Java-focused systems with attention to maintainability, service design, and practical engineering quality. |
 
 **Scope of work**
 
-- Built academic and personal projects that sharpen full stack and Java engineering fundamentals.
-- Practiced problem decomposition, debugging, and maintainable code structure.
-- Developed a product-oriented mindset by focusing on usefulness, clarity, and user flow.
+- Built Java applications and engineering exercises that reinforce production-style thinking.
+- Practiced API, backend, and data-flow problem solving through project work.
+- Developed a habit of shipping readable code with clear structure and intent.
 
 **Skills tags**
 
-`Java` `OOP` `JavaFX` `AI/ML` `Problem Solving` `Full Stack` `System Design` `DevOps`
+`C++` `Java` `Spring Boot` `REST APIs` `Databases` `Docker` `Kubernetes` `AWS` `System Design`
 
 ---
 
@@ -157,9 +157,9 @@ A practice repository for small Java programs, problem solving, and language flu
 
 | Recognition | Details |
 |---|---|
-| Academic track | Computer Engineering student, Saraswati College of Engineering, graduating 2027 |
-| Project portfolio | Multiple Java and project-based repositories demonstrating steady engineering progress |
-| GitHub presence | Maintaining an active public profile with visible development work |
+| Public project portfolio | Multiple repositories covering Java, desktop applications, and recommendation logic |
+| Backend direction | Profile and learning path aligned to backend, systems, and scalable engineering roles |
+| GitHub presence | Public work visible to recruiters and engineering teams |
 
 </div>
 
@@ -244,22 +244,26 @@ A practice repository for small Java programs, problem solving, and language flu
 ## Current Focus
 
 ```yaml
-learning:
-	- Full Stack Development
-	- DevOps Fundamentals
-	- C++ System Design
-building:
-	- Intelligent-Travel-Recommendation-System
-	- JavaFX desktop applications
-	- Stronger Java and problem-solving depth
-exploring:
-	- AI/ML engineering workflows
-	- Product engineering and system design
-	- Scalable backend architecture
-open_to:
-	- Internships
-	- Open-source collaboration
-	- Backend and full stack roles
+technical_roadmap:
+  - c++
+  - data_structures_and_algorithms
+  - backend_development
+  - full_stack_development
+  - devops_and_platform_engineering
+  - system_design
+  - ai_applications
+current_learning_goals:
+  - strengthen C++ problem solving
+  - build Spring Boot REST APIs
+  - design database-backed services
+  - improve Docker and CI/CD fundamentals
+  - learn Kubernetes deployment patterns
+future_specialization_goals:
+  - backend engineering
+  - platform engineering
+  - DevOps and cloud systems
+  - scalable service architecture
+  - AI-enabled product engineering
 ```
 
 ---
@@ -287,7 +291,7 @@ open_to:
 
 <div align="center">
 
-> Engineering excellence is built by shipping consistently, learning deliberately, and caring about the details that users feel.
+> Build systems that stay understandable when the codebase, traffic, and stakes grow.
 
 <br />
 
