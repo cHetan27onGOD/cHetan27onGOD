@@ -1,45 +1,51 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Chetan%20Banjan&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Applications&descAlignY=56&color=gradient&gradientColor=0,111827,1E1B4B,312E81,6D28D9" width="100%" alt="Wave banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Chetan%20Banjan&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Backend%20Engineer%20%7C%20Systems%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=56&color=gradient&gradientColor=0,111827,1E1B4B,312E81,6D28D9" width="100%" alt="Wave banner" />
 
-	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Backend+Engineer+in+Training;Java+%2B+Spring+Boot+%2B+Databases;Full+Stack+Systems+%26+DevOps;AI+Applications+and+Scalable+Software" alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Software+Engineer;C%2B%2B+%7C+DSA+%7C+Linux+%7C+Networking;Backend+Systems+%7C+Databases+%7C+Cloud+Infrastructure;Node.js+%7C+Docker+%7C+Kubernetes" alt="Typing animation" />
 
-	<br />
+<br />
 
-	<img src="https://img.shields.io/badge/Computer_Engineering-2027-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic badge" />
-	<img src="https://img.shields.io/badge/Mumbai-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge" />
-	<img src="https://img.shields.io/badge/Saraswati_College_of_Engineering-Profile-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="College badge" />
+<img src="https://img.shields.io/badge/Computer_Engineering-2027-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic badge" />
+<img src="https://img.shields.io/badge/Mumbai-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge" />
+<img src="https://img.shields.io/badge/Saraswati_College_of_Engineering-Profile-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="College badge" />
 
-	<br /><br />
+<br /><br />
 
-	<a href="https://github.com/cHetan27onGOD">
-		<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio button" />
-	</a>
-	<a href="https://www.linkedin.com/in/chetan-banjan-240b583a2/">
-		<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button" />
-	</a>
-	<a href="mailto:chetanbanjan27@gmail.com">
-		<img src="https://img.shields.io/badge/Email-chetanbanjan27%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email button" />
-	</a>
-	<a href="https://github.com/cHetan27onGOD">
-		<img src="https://img.shields.io/badge/GitHub-cHetan27onGOD-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub button" />
-	</a>
+<a href="https://github.com/cHetan27onGOD">
+<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio button" />
+</a>
+<a href="https://www.linkedin.com/in/chetan-banjan-240b583a2/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button" />
+</a>
+<a href="mailto:chetanbanjan27@gmail.com">
+<img src="https://img.shields.io/badge/Email-chetanbanjan27%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email button" />
+</a>
+<a href="https://github.com/cHetan27onGOD">
+<img src="https://img.shields.io/badge/GitHub-cHetan27onGOD-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub button" />
+</a>
 
-	<br /><br />
+<br /><br />
 
-	<img src="https://komarev.com/ghpvc/?username=cHetan27onGOD&style=for-the-badge&color=6D28D9" alt="Profile views badge" />
-	<img src="https://img.shields.io/github/followers/cHetan27onGOD?style=for-the-badge&color=4F46E5&label=Followers" alt="Followers badge" />
-	<img src="https://img.shields.io/github/stars/cHetan27onGOD?style=for-the-badge&color=2563EB&label=Stars" alt="Stars badge" />
+<img src="https://komarev.com/ghpvc/?username=cHetan27onGOD&style=for-the-badge&color=6D28D9" alt="Profile views badge" />
+<img src="https://img.shields.io/github/followers/cHetan27onGOD?style=for-the-badge&color=4F46E5&label=Followers" alt="Followers badge" />
+<img src="https://img.shields.io/github/stars/cHetan27onGOD?style=for-the-badge&color=2563EB&label=Stars" alt="Stars badge" />
 </div>
 
 ---
 
 ## About
 
-I build backend-first software with a product mindset. My focus is on writing reliable Java and full stack systems, shaping APIs and data flows cleanly, and learning the engineering habits that matter in production: correctness, observability, maintainability, and performance.
+Backend Engineer | Systems Engineer | DevOps Engineer
 
-I am currently shaping my path toward backend engineering, platform engineering, and AI-enabled product development. The emphasis is on systems that scale in design before they scale in traffic.
+I build software with a backend-first and systems-first mindset. My focus is on C++, Data Structures & Algorithms, Linux, Computer Networks, Operating Systems, Backend Development, Node.js, Databases, Docker, Kubernetes, and Cloud & DevOps.
 
-**Open To:** software engineering internships, backend roles, Java developer roles, full stack roles, and future platform or DevOps engineering opportunities.
+I enjoy solving hard problems, designing reliable services, and understanding how software behaves across the operating system, network, and infrastructure layers.
+
+Goal: become a high-impact Software Engineer capable of designing, building, and scaling production-grade systems.
+
+ATS Keywords: C++, DSA, Linux, Networking, Operating Systems, Backend Systems, Node.js, Databases, Docker, Kubernetes, Cloud, DevOps.
+
+**Open To:** software engineering internships, backend roles, systems roles, and future platform or DevOps engineering opportunities.
 
 ---
 
@@ -50,14 +56,14 @@ I am currently shaping my path toward backend engineering, platform engineering,
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" alt="Languages" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend" />
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,postgres,mongodb" alt="Backend" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgres,mongodb" alt="Backend and databases" />
+### Systems & DevOps
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,aws" alt="Systems and DevOps" />
 
-### Cloud, DevOps & Tooling
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,postman,kubernetes" alt="Cloud DevOps and tooling" />
+### Interfaces
+<img src="https://skillicons.dev/icons?i=html,css,react,postman" alt="Interfaces" />
 
 </div>
 
@@ -79,7 +85,7 @@ I am currently shaping my path toward backend engineering, platform engineering,
 <details open>
 <summary><strong>Intelligent-Travel-Recommendation-System</strong></summary>
 
-Backend-oriented recommendation engine work focused on matching user needs with travel outcomes. This project is positioned around engineering quality: structured logic, predictable results, and a clean execution model that can be extended into a production service.
+Backend-oriented recommendation engine work focused on matching user needs with travel outcomes. This project emphasizes data flow, deterministic logic, and an execution model that can evolve into a service-backed system.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
@@ -90,7 +96,7 @@ Backend-oriented recommendation engine work focused on matching user needs with 
 <details>
 <summary><strong>MediaPlayer-JavaFX</strong></summary>
 
-Desktop engineering work that demonstrates event-driven design, application flow, and user-facing reliability. Useful as evidence of implementation quality and the ability to ship a complete Java application.
+Desktop engineering work that demonstrates event-driven design, application flow, and user-facing reliability. Useful as evidence of implementation quality, debugging discipline, and Java application delivery.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
@@ -112,7 +118,7 @@ Domain project centered on hospitality workflows and business process thinking. 
 <details>
 <summary><strong>Java</strong></summary>
 
-Core Java practice repository used to sharpen language fluency, OOP depth, and coding consistency. This repository supports the technical foundation for larger backend and system design work.
+Core Java practice repository used to sharpen language fluency, OOP depth, and coding consistency. This repository supports the technical foundation for backend systems and system design work.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
@@ -137,7 +143,7 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 
 | Job Title | Company Name | Date Range | Professional Description |
 |---|---|---|---|
-| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, full stack, and Java-focused systems with attention to maintainability, service design, and practical engineering quality. |
+| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Java-focused software with attention to maintainability, service design, and practical engineering quality. |
 
 **Scope of work**
 
@@ -147,7 +153,7 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 
 **Skills tags**
 
-`C++` `Java` `Spring Boot` `REST APIs` `Databases` `Docker` `Kubernetes` `AWS` `System Design`
+`C++` `DSA` `Linux` `Networking` `Operating Systems` `Node.js` `Databases` `Docker` `Kubernetes` `AWS` `System Design`
 
 ---
 
@@ -158,7 +164,7 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 | Recognition | Details |
 |---|---|
 | Public project portfolio | Multiple repositories covering Java, desktop applications, and recommendation logic |
-| Backend direction | Profile and learning path aligned to backend, systems, and scalable engineering roles |
+| Backend direction | Profile and learning path aligned to backend, systems, and infrastructure-heavy engineering roles |
 | GitHub presence | Public work visible to recruiters and engineering teams |
 
 </div>
@@ -188,21 +194,21 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 ## Coding Profiles
 
 <div align="center">
-	<a href="https://leetcode.com/u/1K6pQFs3hb/">
-		<img src="https://img.shields.io/badge/LeetCode-1K6pQFs3hb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-	</a>
-	<a href="https://www.geeksforgeeks.org/">
-		<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
-	</a>
-	<a href="https://www.hackerrank.com/">
-		<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
-	</a>
-	<a href="https://www.codechef.com/users/">
-		<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
-	</a>
-	<a href="https://codeforces.com/profile/NormaN_1500">
-		<img src="https://img.shields.io/badge/Codeforces-NormaN__1500-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
-	</a>
+<a href="https://leetcode.com/u/1K6pQFs3hb/">
+<img src="https://img.shields.io/badge/LeetCode-1K6pQFs3hb-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
+</a>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
+</a>
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
+</a>
+<a href="https://www.codechef.com/users/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
+</a>
+<a href="https://codeforces.com/profile/NormaN_1500">
+<img src="https://img.shields.io/badge/Codeforces-NormaN__1500-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
+</a>
 </div>
 
 ---
@@ -210,9 +216,9 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 ## GitHub Analytics
 
 <div align="center">
-	<img height="180" src="https://github-readme-stats.vercel.app/api?username=cHetan27onGOD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" alt="GitHub stats" />
-	<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cHetan27onGOD&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9D1D9" alt="GitHub streak stats" />
-	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cHetan27onGOD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cHetan27onGOD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" alt="GitHub stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cHetan27onGOD&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C9D1D9" alt="GitHub streak stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cHetan27onGOD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
 </div>
 
 ---
@@ -220,7 +226,7 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 ## GitHub Trophies
 
 <div align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=cHetan27onGOD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=cHetan27onGOD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
 </div>
 
 ---
@@ -228,7 +234,7 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 ## Contribution Activity
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=cHetan27onGOD&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cHetan27onGOD&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A78BFA" alt="Contribution activity graph" />
 </div>
 
 ---
@@ -236,7 +242,7 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 ## Contribution Snake
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/cHetan27onGOD/cHetan27onGOD/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/cHetan27onGOD/cHetan27onGOD/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -248,22 +254,32 @@ technical_roadmap:
   - c++
   - data_structures_and_algorithms
   - backend_development
-  - full_stack_development
+  - nodejs
+  - databases
+  - linux
+  - computer_networks
+  - operating_systems
+  - docker
+  - kubernetes
+  - cloud_and_devops
   - devops_and_platform_engineering
   - system_design
-  - ai_applications
 current_learning_goals:
   - strengthen C++ problem solving
-  - build Spring Boot REST APIs
+  - build DSA consistency through practice
+  - improve Linux and OS fundamentals
+  - strengthen computer networks knowledge
+  - build Node.js backend services
   - design database-backed services
   - improve Docker and CI/CD fundamentals
   - learn Kubernetes deployment patterns
 future_specialization_goals:
   - backend engineering
+  - systems engineering
   - platform engineering
   - DevOps and cloud systems
   - scalable service architecture
-  - AI-enabled product engineering
+  - infrastructure and reliability engineering
 ```
 
 ---
@@ -271,18 +287,18 @@ future_specialization_goals:
 ## Connect
 
 <div align="center">
-	<a href="mailto:chetanbanjan27@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-chetanbanjan27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-	</a>
-	<a href="https://www.linkedin.com/in/chetan-banjan-240b583a2/">
-		<img src="https://img.shields.io/badge/LinkedIn-Chetan_Banjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="https://github.com/cHetan27onGOD">
-		<img src="https://img.shields.io/badge/GitHub-cHetan27onGOD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-	</a>
-	<a href="https://github.com/cHetan27onGOD">
-		<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-	</a>
+<a href="mailto:chetanbanjan27@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-chetanbanjan27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/chetan-banjan-240b583a2/">
+<img src="https://img.shields.io/badge/LinkedIn-Chetan_Banjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/cHetan27onGOD">
+<img src="https://img.shields.io/badge/GitHub-cHetan27onGOD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/cHetan27onGOD">
+<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
 </div>
 
 ---
