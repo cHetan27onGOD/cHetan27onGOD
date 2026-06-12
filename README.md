@@ -143,11 +143,11 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 
 | Job Title | Company Name | Date Range | Professional Description |
 |---|---|---|---|
-| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Java-focused software with attention to maintainability, service design, and practical engineering quality. |
+| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Javascript software with attention to maintainability, service design, and practical engineering quality. |
 
 **Scope of work**
 
-- Built Java applications and engineering exercises that reinforce production-style thinking.
+- Built Javascript websites and engineering exercises that reinforce production-style thinking.
 - Practiced API, backend, and data-flow problem solving through project work.
 - Developed a habit of shipping readable code with clear structure and intent.
 
