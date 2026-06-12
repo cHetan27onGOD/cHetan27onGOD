@@ -143,11 +143,11 @@ Practice repository for problem solving, fundamentals, and small Java implementa
 
 | Job Title | Company Name | Date Range | Professional Description |
 |---|---|---|---|
-| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Javascript software with attention to maintainability, service design, and practical engineering quality. |
+| Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Java-focused software with attention to maintainability, service design, and practical engineering quality. |
 
 **Scope of work**
 
-- Built Javascript websites and engineering exercises that reinforce production-style thinking.
+- Built Java applications and engineering exercises that reinforce production-style thinking.
 - Practiced API, backend, and data-flow problem solving through project work.
 - Developed a habit of shipping readable code with clear structure and intent.
 
@@ -291,7 +291,7 @@ future_specialization_goals:
 <img src="https://img.shields.io/badge/Gmail-chetanbanjan27%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://www.linkedin.com/in/chetan-banjan-240b583a2/">
-<img src="https://img.shields.io/badge/LinkedIn-Chetan_Banjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Chetan19000-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/cHetan27onGOD">
 <img src="https://img.shields.io/badge/GitHub-cHetan27onGOD-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
