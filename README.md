@@ -1,34 +1,17 @@
 <div align="center">
+<<<<<<< HEAD
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Chetan%20Banjan&fontSize=42&fontAlignY=34&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Systems%20%7C%20DevOps&descAlignY=56&color=gradient&gradientColor=0,111827,1E1B4B,312E81,6D28D9" width="100%" alt="Wave banner" />
+=======
+  <h1 style="margin: 0; font-size: 2rem;">Chetan Banjan</h1>
+  <p style="margin: 0.35rem 0 0.8rem; font-size: 1.05rem;">
+    Fresher Software Engineer | Backend & Systems Enthusiast | DevOps Learner
+  </p>
+  <p style="margin: 0 0 1rem; font-size: 0.98rem; color: #cbd5e1;">
+    Building strong fundamentals in C++, DSA, Linux, networking, backend development, and cloud basics.
+  </p>
+>>>>>>> 3ccdf42 (Some)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Software+Engineer;C%2B%2B+%7C+DSA+%7C+Linux+%7C+Networking;Backend+Systems+%7C+Databases+%7C+Cloud+Infrastructure;Node.js+%7C+Docker+%7C+Kubernetes" alt="Typing animation" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Computer_Engineering-2027-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic badge" />
-<img src="https://img.shields.io/badge/Mumbai-India-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location badge" />
-<img src="https://img.shields.io/badge/Saraswati_College_of_Engineering-Profile-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="College badge" />
-
-<br /><br />
-
-<a href="https://github.com/cHetan27onGOD">
-<img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio button" />
-</a>
-<a href="https://www.linkedin.com/in/chetan-banjan-240b583a2/">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn button" />
-</a>
-<a href="mailto:chetanbanjan27@gmail.com">
-<img src="https://img.shields.io/badge/Email-chetanbanjan27%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email button" />
-</a>
-<a href="https://github.com/cHetan27onGOD">
-<img src="https://img.shields.io/badge/GitHub-cHetan27onGOD-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub button" />
-</a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=cHetan27onGOD&style=for-the-badge&color=6D28D9" alt="Profile views badge" />
-<img src="https://img.shields.io/github/followers/cHetan27onGOD?style=for-the-badge&color=4F46E5&label=Followers" alt="Followers badge" />
-<img src="https://img.shields.io/github/stars/cHetan27onGOD?style=for-the-badge&color=2563EB&label=Stars" alt="Stars badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=980&lines=Software+Engineer;C%2B%2B+%7C+DSA+%7C+Linux+%7C+Networking;Backend+Systems+%7C+Databases+%7C+Cloud+Infrastructure;Node.js+%7C+Docker+%7C+Kubernetes" alt="Typing animation" />
 </div>
 
 ---
@@ -36,16 +19,19 @@
 ## About
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Backend Engineer | Systems Engineer | DevOps Engineer
+=======
+Fresher Software Engineer | Backend & Systems Enthusiast | DevOps Learner
+>>>>>>> 3ccdf42 (Some)
 
-I build software with a backend-first and systems-first mindset. My focus is on C++, Data Structures & Algorithms, Linux, Computer Networks, Operating Systems, Backend Development, Node.js, Databases, Docker, Kubernetes, and Cloud & DevOps.
+I am an aspiring software engineer with a strong interest in backend systems, problem-solving, and building reliable software. My focus is on C++, Data Structures & Algorithms, Linux, Computer Networks, Operating Systems, Backend Development, Node.js, Databases, Docker, Kubernetes, and Cloud & DevOps.
 
-I enjoy solving hard problems, designing reliable services, and understanding how software behaves across the operating system, network, and infrastructure layers.
-
-Goal: become a high-impact Software Engineer capable of designing, building, and scaling production-grade systems.
+I enjoy learning how software works from the ground up and building practical projects that strengthen my fundamentals. My goal is to grow into a dependable engineer who can contribute to scalable and maintainable systems.
 
 ATS Keywords: C++, DSA, Linux, Networking, Operating Systems, Backend Systems, Node.js, Databases, Docker, Kubernetes, Cloud, DevOps.
 
+<<<<<<< HEAD
 **Open To:** software engineering internships, backend roles, systems roles, and future platform or DevOps engineering opportunities.
 =======
 I am Chetan Banjan, a Computer Engineering student at Saraswati College of Engineering in Mumbai, graduating in 2027. I focus on software engineering with a strong bias toward building reliable products, practical AI/ML features, and full stack systems that feel polished, maintainable, and useful in real environments.
@@ -54,6 +40,9 @@ My work sits at the intersection of product engineering and implementation disci
 
 **Open To:** internships, open-source collaboration, backend and full stack roles, AI/ML projects, and engineering teams that value ownership and execution.
 >>>>>>> 975ac77 (Update profile README)
+=======
+**Open To:** fresher/entry-level software engineering roles, backend internships, systems internships, and DevOps learning opportunities.
+>>>>>>> 3ccdf42 (Some)
 
 ---
 
@@ -212,13 +201,17 @@ A practice repository for small Java programs, problem solving, and language flu
 | Job Title | Company Name | Date Range | Professional Description |
 |---|---|---|---|
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Software Engineering Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Java-focused software with attention to maintainability, service design, and practical engineering quality. |
+=======
+| Fresher / Academic Project Focus | Independent / Academic | 2023 - Present | Building backend, systems, and Java-focused projects while strengthening fundamentals in software engineering and problem solving. |
+>>>>>>> 3ccdf42 (Some)
 
 **Scope of work**
 
-- Built Java applications and engineering exercises that reinforce production-style thinking.
-- Practiced API, backend, and data-flow problem solving through project work.
-- Developed a habit of shipping readable code with clear structure and intent.
+- Built Java applications and coding exercises to improve problem-solving and engineering discipline.
+- Practiced backend concepts, data flow, and software design through hands-on project work.
+- Developed a habit of writing readable, structured, and maintainable code.
 
 **Skills tags**
 
